@@ -17,7 +17,7 @@ A production-ready Named Entity Recognition system built with modern deep learni
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ner-system.git
+git clone https://github.com/Nizar04/Named-Entity-Recognition.git
 cd ner-system
 
 # Create virtual environment

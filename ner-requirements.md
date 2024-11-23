@@ -1,0 +1,14 @@
+tensorflow>=2.8.0
+numpy>=1.19.2
+pandas>=1.3.0
+scikit-learn>=0.24.2
+spacy>=3.1.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+plotly>=5.3.1
+seaborn>=0.11.2
+matplotlib>=3.4.3
+mlflow>=1.20.2
+pydantic>=1.8.2
+typing-extensions>=3.10.0
